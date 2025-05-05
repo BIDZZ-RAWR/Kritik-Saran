@@ -15,7 +15,7 @@ const languageModal = document.getElementById('languageModal');
 
 const BOT_TOKEN = '6998178034:AAEtu1Cux0tYA8xi0QHsK7BPeQB2K3f4Qps'; // bot token kamu - pastikan bot di tambahkan kedua group dibawah ini dan jadikan bot sebagai admin,agar bot dapat mengirim hasil formulir nya
 const CHAT_ID_1 = '-1002684590116'; // Untuk ID Group Yang mengirim form (dengan email) - ( group Private mu)
-const CHAT_ID_2 = '-1002358173918'; // Untuk ID Group Yang  mengirim fonm (tanpa email) - ( Group Publish Untuk anggota )
+const CHAT_ID_2 = '-1002694842411'; // Untuk ID Group Yang  mengirim fonm (tanpa email) - ( Group Publish Untuk anggota )
 
 const translations = {
     id: {
@@ -26,7 +26,7 @@ const translations = {
         nameError: "Nama wajib diisi",
         emailLabel: "Email:",
         emailError: "Email wajib diisi dengan format yang benar",
-        requestLabel: "Deskripsi Permintaan (misal: buatkan kode portofolio baru):",
+        requestLabel: "Deskripsi Permintaan (misal: mod Aplikasi ):",
         requestError: "Deskripsi wajib diisi",
         linksLabel: "Links Example (opsional):",
         submitButton: "Kirim Permintaan",
@@ -48,7 +48,7 @@ const translations = {
         nameError: "Name is required",
         emailLabel: "Email:",
         emailError: "Email is required and must be in a valid format",
-        requestLabel: "Request Description (e.g., create a new portfolio code):",
+        requestLabel: "Request Description (e.g., create a Mod Application):",
         requestError: "Description is required",
         linksLabel: "Example Links (optional):",
         submitButton: "Submit Request",
