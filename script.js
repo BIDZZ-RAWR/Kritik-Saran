@@ -37,7 +37,7 @@ const translations = {
         telegramMessagePublic: (name, request, links) => 
             `✨ Permintaan Baru ✨\n👤 Nama: ${name}\n📝 Deskripsi: ${request}\n🔗 Link: ${links}`,
         aboutTitle: "Tentang Formulir Ini",
-        aboutText: "Formulir ini dibuat untuk anggota komunitas yang ingin meminta bantuan kode, saran, atau kritik. Isi nama, email, dan deskripsi permintaan Anda dengan lengkap.\n\nJika permintaan disetujui, Bidzz (owner) akan mengirim balasan melalui email. Hanya Bidzz yang dapat melihat email Anda. Anggota lain hanya bisa melihat nama, deskripsi, dan link (jika ada) di channel komunitas.\n\nSilakan tunggu balasan atau lihat kode yang diterima di channel berikut. Proses ini maksimal memakan waktu 24-48 jam.",
+        aboutText: "Formulir ini diperuntukkan bagi anggota komunitas yang ingin mengajukan permohonan terkait mohon bantuan kode, saran, atau kritik. \n\n Silahkan anda isi formulir dengan nama, email serta permohonan yang propmtal disertai dengan detail yang lengkap. \n\n Jika permohonan disetujui, Bidzz (pemilik) merespon permohonan melalui email. \n\n Hanya Bidzz yang memiliki akses untuk melihat email Anda. Anggota lain hanya dapat melihat nama, serta deskripsi, dan link jika ada, di channel komunitas. \n\n Silahkan menunggu jawaban atau melihat kode yang diterima di channel ini. Proses ini paling lama 24-48 jam.",
         telegramLink: "Lihat Semua Permintaan di Channel Telegram"
     },
     en: {
@@ -59,7 +59,7 @@ const translations = {
         telegramMessagePublic: (name, request, links) => 
             `✨ New Request ✨\n👤 Name: ${name}\n📝 Description: ${request}\n🔗 Link: ${links}`,
         aboutTitle: "About This Form",
-        aboutText: "This form is designed for community members seeking code assistance, advice, or creation (e.g., a portfolio). Please fill in your name, email, and request description completely.\n\nIf approved, Bidzz (the owner) will reply via email. Only Bidzz can see your email, while other members will only see your name, description, and link (if provided) in the community channel.\n\nPlease wait for a response or check the accepted code in the channel below. The process may take up to 24-48 hours.",
+        aboutText: "This application is for community members who require help with code, advice, or want a portfolio made. \n\n Complete the form with your name, email, and request details. If the request is approved, I (Bidzz) will respond via email. \n\n Only Bidzz has access to your email; all other members will see your name, description, and the link provided, if any, in the community channel. \n\n Kindly wait for a response and see if the code was accepted in the channel below. It can take us sometimes to respond, up to 24-48 hours.",
         telegramLink: "View All Requests on Telegram Channel"
     }
 };
