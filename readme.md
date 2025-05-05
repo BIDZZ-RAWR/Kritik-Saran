@@ -1,20 +1,24 @@
-# Formulir Permintaan Kode Komunitas
+# Komunitas Kode - Formulir Permintaan Kode
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlPystfePnAI3G8/giphy.gif" alt="Komunitas Kode" width="400">
 </p>
 
-Formulir Permintaan Kode Komunitas adalah sebuah aplikasi web yang memungkinkan anggota komunitas untuk mengajukan permintaan kode, saran, atau kritik. Permintaan yang disetujui akan dikirimkan ke admin melalui Telegram, dan balasan akan dikirimkan melalui email.
+Selamat datang di Komunitas Kode! Aplikasi web ini memungkinkan anggota komunitas untuk mengajukan permintaan kode, saran, atau kritik. Permintaan yang disetujui akan dikirimkan ke admin melalui Telegram, dan balasan akan dikirimkan melalui email.
 
-## Fitur
+## Fitur-Fitur Menarik
 
-- Formulir untuk mengajukan permintaan kode, saran, atau kritik
+<p align="center">
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="Teknologi" width="400">
+</p>
+
+- Formulir pengajuan permintaan yang mudah digunakan
 - Pilihan bahasa (Indonesia dan Inggris)
-- Validasi input formulir
+- Validasi input formulir untuk memastikan kelengkapan data
 - Pengiriman permintaan ke admin melalui Telegram
 - Pengiriman balasan ke pemohon melalui email
 
-## Cara Penggunaan
+## Cara Penggunaan yang Sederhana
 
 1. Buka aplikasi web di [https://komunitas-kode.vercel.app/](https://komunitas-kode.vercel.app/).
 2. Pilih bahasa yang diinginkan (Indonesia atau Inggris).
@@ -22,34 +26,19 @@ Formulir Permintaan Kode Komunitas adalah sebuah aplikasi web yang memungkinkan 
 4. Klik tombol "Kirim Permintaan".
 5. Jika permintaan disetujui, Anda akan menerima balasan melalui email.
 
-## Teknologi yang Digunakan
-
 <p align="center">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML, CSS, JavaScript, Telegram Bot API" width="400">
+  <img src="https://media.giphy.com/media/l0HlQGzz2MQCKIBI4/giphy.gif" alt="Kontribusi" width="400">
 </p>
 
-- HTML
-- CSS
-- JavaScript
-- Telegram Bot API
+## Kontribusi yang Berharga
 
-## Kontribusi
-
-Jika Anda ingin berkontribusi pada proyek ini, Anda dapat melakukan hal-hal berikut:
+Kami terbuka untuk kontribusi dari komunitas. Jika Anda ingin berkontribusi, Anda dapat:
 
 1. Laporkan bug atau masalah yang Anda temukan.
 2. Ajukan saran untuk fitur baru atau peningkatan.
 3. Buat pull request dengan perbaikan atau penambahan fitur.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlQGzz2MQCKIBI4/giphy.gif" alt="Kontribusi" width="400">
-</p>
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
-## Kontak
+## Hubungi Kami
 
 Jika Anda memiliki pertanyaan atau membutuhkan bantuan, Anda dapat menghubungi kami melalui:
 
@@ -59,3 +48,7 @@ Jika Anda memiliki pertanyaan atau membutuhkan bantuan, Anda dapat menghubungi k
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlMXmPxWFcTMCyA/giphy.gif" alt="Kontak" width="400">
 </p>
+
+## Lisensi
+
+Proyek ini dilisensikan di bawah [MIT License](LICENSE).
