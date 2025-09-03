@@ -13,7 +13,7 @@ const requestError = document.getElementById('requestError');
 const content = document.getElementById('content');
 const languageModal = document.getElementById('languageModal');
 
-const BOT_TOKEN = '6998178034:AAEtu1Cux0tYA8xi0QHsK7BPeQB2K3f4Qps'; // bot token kamu - pastikan bot di tambahkan kedua group dibawah ini dan jadikan bot sebagai admin,agar bot dapat mengirim hasil formulir nya
+const BOT_TOKEN = '6998178034:AAEpLSJ6kAXkPnEyzG0SssDPP31SQQeBRWM'; // bot token kamu - pastikan bot di tambahkan kedua group dibawah ini dan jadikan bot sebagai admin,agar bot dapat mengirim hasil formulir nya
 const CHAT_ID_1 = '-1002684590116'; // Untuk ID Group Yang mengirim form (dengan email) - ( group Private mu)
 const CHAT_ID_2 = '-1002694842411'; // Untuk ID Group Yang  mengirim fonm (tanpa email) - ( Group Publish Untuk anggota )
 
@@ -189,4 +189,5 @@ window.addEventListener('resize', () => {
     } else {
         updateIndicator(aboutLink);
     }
+
 });
